@@ -1,5 +1,5 @@
 {
-	"name": "apirh-todo-cf",
+	"name": "apihono-todo-cf",
 	"type": "module",
 	"scripts": {
 		"dev": "wrangler dev",
